@@ -1,4 +1,4 @@
-# postgres_aws_db_functions
+# Postgres AWS DB Functions
 Personal AWS/Postgress functions for quick DB work
 
 This repository is intended as simple python functions to allow one to quikcly make changes, excute code, and ETL data with a few function calls.
